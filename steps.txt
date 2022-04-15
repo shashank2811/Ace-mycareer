@@ -1,0 +1,17 @@
+I have created a webpage using css,javascript,bootstrap and html.
+Steps to view
+1. once u open the "home.html" file , the front page of Ace my career is displayed.
+2.I have used a image carousel , in this background image will change for every 2 seconds.
+3. I have used a navigation bar using bootstrap and if u click on Home u will be redirected to "home.html"page.
+4. next if u click on aptitude - a list is displayed showcasing the different tests .
+	If u click on any one of the test u will be redirected to "Aptitude.html"
+5. In the above page , i ave displayed different kinds of aptitude tests ,if u click on the respective test , it will be redirected to a new page
+
+6.FOR EXAMPLE: once i click Abstract Reasoning.It will be redirected to a page "abstractreasoning.html".
+ In that page i ave displayed defintion of abstract reasoning  and below it I ave provided 2 tests 
+		a)practise test
+            b)timed test 
+if u click on either a or b u will be redirected to respective tests. I have used javascript for the above 2 tests
+
+
+//Backend not yet implemented
